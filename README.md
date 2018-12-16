@@ -7,4 +7,4 @@ Things to add:
 
 1. Music Player
 2. Live streaming capabilities
-3.ui for server side to update catalogs
+3. UI for server side to update catalogs
